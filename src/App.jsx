@@ -6,23 +6,6 @@ import {
   Routes,
   Navigate,
 } from "react-router-dom"; // Import Navigate
-import Navbar from "./Pages/Home/Navbar";
-import Home from "./Pages/Home/Homescreen";
-import Admin from "./Pages/Admin";
-import "bootstrap/dist/css/bootstrap.min.css";
-import "react-toastify/dist/ReactToastify.css";
-import Login from "./Pages/Login";
-import AddSkill from "./Pages/AddSkill";
-import AddProject from "./Pages/AddProject";
-import UpdateSkill from "./Pages/UpdateSkill";
-import UpdateUser from "./Pages/UpdateUser";
-import ChatRoom from "./Pages/ChatRoom";
-import UpdateProject from "./Pages/UpdateProject";
-import ViewUser from "./Pages/ViewUser";
-import ViewSkill from "./Pages/ViewSkill";
-import ViewProject from "./Pages/ViewProject";
-import ViewCV from "./Pages/ViewCV";
-import { ToastContainer } from "react-toastify";
 
 function App() {
   return (
